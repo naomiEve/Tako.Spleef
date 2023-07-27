@@ -1,5 +1,7 @@
 # Tako.Spleef
 
+![A gif showcasing the spleef plugin for Tako](Meta/spleef.gif)
+
 A spleef plugin for the [Tako](https://github.com/naomiEve/Tako) Minecraft Classic server. This merely serves as a simple showcase of the plugin capabilities of Tako.
 
 ## Installation
