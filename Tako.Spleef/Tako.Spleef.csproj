@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="Tako.Common">
+      <HintPath>..\..\Tako\Tako.Server\bin\Debug\net7.0\Tako.Common.dll</HintPath>
+    </Reference>
+    <Reference Include="Tako.Definitions">
+      <HintPath>..\..\Tako\Tako.Server\bin\Debug\net7.0\Tako.Definitions.dll</HintPath>
+    </Reference>
+    <Reference Include="Tako.NBT">
+      <HintPath>..\..\Tako\Tako.Server\bin\Debug\net7.0\Tako.NBT.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
